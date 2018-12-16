@@ -1,0 +1,2 @@
+# battlesship
+Pythonbased MMOBS
