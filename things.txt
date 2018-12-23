@@ -1,0 +1,33 @@
+Server
+	PROTOCOL
+Lobby
+	UI
+Game
+	UI
+		GameBoard
+		Playerlist
+		Chat
+		Command Window
+	Players
+		Player
+			Ships
+
+	Game logic
+		Turn
+			Move phase
+				Commands:
+					Rotate(+/-)
+					Move(Dist)
+			Attack Phase
+				Target(PlayerName:GridSquare)
+		WinCondition
+		YouLose			
+Ship
+	Movespeed
+	attack
+
+AI(?)
+
+Chat
+	Just fucking IRC
+
